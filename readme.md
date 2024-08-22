@@ -1,7 +1,12 @@
 # Clothify- an E-Commerce Website
 
+
+## User visit
 ## [Visit the website from here...  ](https://clothify-by-rih.vercel.app/)
 
+
+## Admin visit
+##[ Admin Visit..](https://admin-by-rih.vercel.app/)
 
 
 ## Description
