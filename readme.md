@@ -1,6 +1,6 @@
 # Clothify- an E-Commerce Website
 
-## [## Visite Here ](https://clothify-by-rih.vercel.app/)
+## [Deployed Here ](https://clothify-by-rih.vercel.app/)
 
 
 
